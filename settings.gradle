@@ -1,0 +1,2 @@
+rootProject.name = "submoduledemo"
+include ':app'
